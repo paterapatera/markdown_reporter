@@ -1,7 +1,7 @@
-package patera.markdown_reporter.service
+package paterapatera.markdown_reporter.service
 
 import org.scalatest.events._
-import patera.markdown_reporter.model._
+import paterapatera.markdown_reporter.model._
 
 object SameSuiteId {
   def apply(id: String)(testCase: TestCase): Boolean =

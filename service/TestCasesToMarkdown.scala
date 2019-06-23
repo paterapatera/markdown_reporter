@@ -1,6 +1,6 @@
-package patera.markdown_reporter.service
+package paterapatera.markdown_reporter.service
 
-import patera.markdown_reporter.model._
+import paterapatera.markdown_reporter.model._
 
 object TestCasesToMarkdown {
   def apply(

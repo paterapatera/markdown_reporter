@@ -1,8 +1,8 @@
-package patera.markdown_reporter.service
+package paterapatera.markdown_reporter.service
 
 import org.scalatest.events._
 import scala.collection.mutable.Set
-import patera.markdown_reporter.model._
+import paterapatera.markdown_reporter.model._
 
 object CreateTestSuite {
   def apply(

@@ -1,4 +1,4 @@
-package patera.markdown_reporter.model
+package paterapatera.markdown_reporter.model
 
 case class TestSuite(
     name: String,

@@ -1,4 +1,4 @@
-package patera.markdown_reporter.model
+package paterapatera.markdown_reporter.model
 
 import org.scalatest.events._
 

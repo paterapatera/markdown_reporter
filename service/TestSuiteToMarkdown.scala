@@ -1,7 +1,7 @@
-package patera.markdown_reporter.service
+package paterapatera.markdown_reporter.service
 
 import java.text.SimpleDateFormat
-import patera.markdown_reporter.model._
+import paterapatera.markdown_reporter.model._
 
 object TestSuiteToMarkdown {
   def apply(

@@ -1,10 +1,10 @@
-package patera.markdown_reporter
+package paterapatera.markdown_reporter
 
 import org.scalatest._
 import org.scalatest.events._
 import scala.collection.mutable.Set
-import patera.markdown_reporter.service._
-import patera.markdown_reporter.model._
+import paterapatera.markdown_reporter.service._
+import paterapatera.markdown_reporter.model._
 
 object Data {
   val directory: String = "./design_doc"

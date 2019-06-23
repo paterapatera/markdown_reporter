@@ -1,4 +1,4 @@
-package patera.markdown_reporter.service
+package paterapatera.markdown_reporter.service
 
 import java.io.File;
 import java.io.PrintWriter
