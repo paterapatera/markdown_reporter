@@ -1,0 +1,2 @@
+# scala-scalatest-markdown_reporter
+scalatestの結果をマークダウン形式で出力するレポーター
