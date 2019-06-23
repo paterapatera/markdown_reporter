@@ -11,7 +11,7 @@ scalatestの結果をマークダウン形式で出力するレポーター
 - build.sbtに以下を記述することで使える
   ```scala
   testOptions in Test ++= Seq(
-    Tests.Argument(TestFrameworks.ScalaTest, "-C", "patera.MarkdownReporter")
+    Tests.Argument(TestFrameworks.ScalaTest, "-C", "paterapatera.MarkdownReporter")
   )
   ```
 
